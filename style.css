@@ -1,0 +1,24 @@
+.recipes-header {
+    text-align: center;
+}
+
+.recipes-list {
+    text-align: center;
+    list-style: none;
+}
+
+.recipe {
+    text-align: center;
+}
+
+.no-bullet {
+    list-style: inside;
+}
+
+.steps-margin {
+    margin-bottom: 0;
+}
+.steps {
+    display: inline-block;
+    text-align: left;
+}
